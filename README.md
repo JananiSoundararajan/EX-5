@@ -54,11 +54,11 @@ while True:
 
 CLIENT:
 
- 
+ ![OUTPUT](3bclient.png)
 
 SERVER:
 
-
+![OUTPUT](3bserver.png)
 
 ## RESULT :
 Thus, python program for simulating RARP protocols using UDP was successfully executed.
